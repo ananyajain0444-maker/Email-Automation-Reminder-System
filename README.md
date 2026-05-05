@@ -121,14 +121,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## ▶️ Run Project
-
-```bash
-python main.py
-```
-
----
-
 ## 💻 Sample Output
 
 ```
