@@ -121,41 +121,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
----
-
-## 🔐 Environment Setup
-
-Create a `.env` file:
-
-```
-EMAIL=your_email@gmail.com
-PASSWORD=your_app_password
-```
-
-⚠️ Use **App Password**, not your real Gmail password.
-
----
-
-## 📄 Sample Input
-
-### contacts.csv
-
-```
-name,email
-Ananya,test1@example.com
-Rahul,test2@example.com
-```
-
-### reminders.csv
-
-```
-subject,message
-Reminder 1,Your task is pending
-Reminder 2,Join meeting at 7 PM
-```
-
----
-
 ## ▶️ Run Project
 
 ```bash
