@@ -2,5 +2,5 @@ Hi {{name}},
 
 {{message}}
 
-Regards,
-Email Automation System
+Thanks,
+Automation System

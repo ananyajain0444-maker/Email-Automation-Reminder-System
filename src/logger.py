@@ -1,18 +1,13 @@
 import logging
 import os
 
-LOG_FILE = "logs/email.log"
-
 os.makedirs("logs", exist_ok=True)
 
 logging.basicConfig(
-    filename=LOG_FILE,
+    filename="logs/email.log",
     level=logging.INFO,
-    format="%(asctime)s | %(levelname)s | %(message)s"
+    format="%(asctime)s - %(message)s"
 )
 
-def log_info(message):
+def log(message):
     logging.info(message)
-
-def log_error(message):
-    logging.error(message)

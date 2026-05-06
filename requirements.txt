@@ -1,4 +1,2 @@
 pandas
-schedule
-python-dotenv
 matplotlib

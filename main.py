@@ -1,4 +1,5 @@
-from src.scheduler import start_scheduler
+from src.scheduler import process_emails
 
 if __name__ == "__main__":
-    start_scheduler()
+    print("🚀 Starting Email Automation System...")
+    process_emails()

@@ -11,6 +11,4 @@ def load_template(path):
         return f.read()
 
 def personalize(template, name, message):
-    text = template.replace("{{name}}", name)
-    text = text.replace("{{message}}", message)
-    return text
+    return template.replace("{{name}}", name).replace("{{message}}", message)
