@@ -1,0 +1,7 @@
+email,status,time
+test1@example.com,SUCCESS,2026-05-06 18:20:16.601740
+test1@example.com,SUCCESS,2026-05-06 18:20:16.601740
+test2@example.com,FAILED,2026-05-06 18:30:16.601740
+test2@example.com,SUCCESS,2026-05-06 18:30:16.601740
+test3@example.com,FAILED,2026-05-06 18:40:16.601740
+test3@example.com,SUCCESS,2026-05-06 18:40:16.601740

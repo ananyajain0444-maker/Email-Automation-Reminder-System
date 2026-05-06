@@ -1,0 +1,64 @@
+2026-05-05 12:00:42,566 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:00:42,566 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:00:42,566 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:00:42,566 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:01:43,221 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:01:43,221 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:01:43,221 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:01:43,221 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:04:06,712 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:04:06,712 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:04:06,712 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:04:06,712 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:05:47,566 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:05:47,566 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:05:47,566 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:05:47,566 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:06:49,324 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:06:49,325 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:06:49,327 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:06:49,327 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:09:02,561 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:09:02,562 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:09:02,563 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:09:02,563 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:10:03,892 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:10:03,892 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:10:03,892 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:10:03,892 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:11:05,083 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:11:05,083 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:11:05,083 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:11:05,083 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:12:06,461 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:12:06,461 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:12:06,461 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:12:06,461 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:13:41,873 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:13:41,873 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:13:41,873 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:13:41,873 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:14:43,780 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:14:43,780 | INFO | [DRY RUN] Email to test1@example.com
+2026-05-05 12:14:43,780 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-05 12:14:43,780 | INFO | [DRY RUN] Email to test2@example.com
+2026-05-06 18:16:04,784 - test1@example.com \u2192 SUCCESS
+2026-05-06 18:16:04,790 - test1@example.com \u2192 SUCCESS
+2026-05-06 18:16:04,792 - test2@example.com \u2192 FAILED
+2026-05-06 18:16:04,794 - test2@example.com \u2192 SUCCESS
+2026-05-06 18:16:04,794 - test3@example.com \u2192 SUCCESS
+2026-05-06 18:16:04,797 - test3@example.com \u2192 SUCCESS
+2026-05-06 18:16:07,979 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-06 18:16:07,979 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-06 18:20:16,601 - test1@example.com \u2192 SUCCESS
+2026-05-06 18:20:16,601 - test1@example.com \u2192 SUCCESS
+2026-05-06 18:20:16,610 - test2@example.com \u2192 FAILED
+2026-05-06 18:20:16,610 - test2@example.com \u2192 SUCCESS
+2026-05-06 18:20:16,610 - test3@example.com \u2192 FAILED
+2026-05-06 18:20:16,612 - test3@example.com \u2192 SUCCESS
+2026-05-06 18:20:18,738 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-06 18:20:18,738 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-06 18:20:18,754 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-06 18:20:18,754 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-06 18:20:18,754 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-05-06 18:20:18,754 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
